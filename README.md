@@ -1,8 +1,6 @@
 # Calculator
 Python, ttk, tkinter, sly / Calculator Desktop App
 
-This Calculator app is part of my portfolio.
-
 Run the following commands in your terminal to run this Python application:
 
 git clone https://github.com/sinisabubonja/calculator.git <br/>
