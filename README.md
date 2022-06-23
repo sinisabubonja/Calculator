@@ -7,5 +7,5 @@ git clone https://github.com/sinisabubonja/calculator.git <br/>
 python3.10 -m venv calc <br/>
 cd calc <br/>
 source bin/activate<br/>
-pip install -r requirements.txt <br/>
+pip3 install -r requirements.txt <br/>
 python gui.py
