@@ -3,7 +3,7 @@ Python, ttk, tkinter, sly / Calculator Desktop App
 
 This Calculator app is part of my portfolio.
 
-Run following commands in your terminal to run this python application:
+Run the following commands in your terminal to run this Python application:
 
 git clone https://github.com/sinisabubonja/calculator.git <br/>
 python3.6 -m venv calc <br/>
